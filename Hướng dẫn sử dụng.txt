@@ -1,0 +1,11 @@
+-Tải phần mềm wampserver3.2.3_x64
+-Chọn lại version php phù hợp (chọn PHP-CLI 7.4.9-WEB 7.4.9)
+-Tải source code vào C:\wamp64\www
+-Mở phần mềm wamp lên và dùng trình duyệt mở phpmyadmin để vào database
+User:root
+pass:
+-import(nhập) file blog_fileSQL vào (để nhập cơ sở dữ liệu của web)
+-vào địa chỉ localhost/blog để vào giao diện người dùng
+-vào địa chỉ localhost/blog/admin để vào giao diện admin
+Email:17521254@gm.uit.edu.vn
+pass:123
